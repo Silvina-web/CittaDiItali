@@ -1,0 +1,22 @@
+
+@import "secciones";
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    background-color: rgb(238, 220, 192);
+}
+
+.logo{
+    
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translatex(-50%) translateY(-50%);
+   
+         a{
+    color: rgb(218, 67, 67);
+    text-decoration: none;
+           }
+}  

@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #eedcc0;
+}
+
+.logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translatex(-50%) translateY(-50%);
+}
+
+.logo a {
+  color: #da4343;
+  text-decoration: none;
+}
+/*# sourceMappingURL=estilos.css.map */
