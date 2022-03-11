@@ -1,0 +1,43 @@
+.flecha_home{
+    margin-top: 1rem;
+    margin-left: 1rem;
+
+    a{
+     text-decoration: none;
+     color: black;
+    }
+}
+
+header{
+    ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 1.5rem;
+    background-color: rgba(132, 181, 223, 0.534);
+    padding: 1.5rem;
+    box-shadow: 3px 3px 3px rgb(204, 202, 202);
+    li{
+        list-style:none;
+    :hover{
+        color:rgb(240, 42, 42);
+    }
+        a{   text-decoration: none;
+            
+    }
+        .Seccion1{
+         
+         color: red;
+         text-decoration: none;
+        }
+}
+}
+
+@media screen and (max-width: 770px)  {
+     ul{
+         display: flex;
+         flex-direction: column;
+     }
+    
+}
+}
